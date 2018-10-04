@@ -1,0 +1,66 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "name": "Футболка",
+      "price": 600,
+      "img": "img/item1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Блузка",
+      "price": 900,
+      "img": "img/item2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Куртка",
+      "price": 1200,
+      "img": "img/item3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Штаны",
+      "price": 800,
+      "img": "img/item7.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Майка",
+      "price": 750,
+      "img": "img/item4.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Блузка",
+      "price": 1100,
+      "img": "img/item5.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Шляпа",
+      "price": 400,
+      "img": "img/item6.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Кофта",
+      "price": 1800,
+      "img": "img/item8.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "quantity": 2,
+      "price": "600",
+      "img": "img/item1.jpg"
+    },
+    {
+      "id": "4",
+      "quantity": 4,
+      "price": "800",
+      "img": "img/item7.jpg"
+    }
+  ]
+}
